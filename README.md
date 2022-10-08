@@ -25,17 +25,17 @@ Music🎵, films🎬 and books📖 fills us emotionally, alcohols🥂 help us fo
 
 &ensp;&ensp;&ensp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/eclipse-5C2D91.svg?style=for-the-badge&logo=eclipse&logoColor=crimson)
-![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-%23FF9900.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Eclipse](https://img.shields.io/badge/eclipse-5C2D91.svg?style=for-the-badge&logo=eclipse&logoColor=white)
+![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-%23000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![GoLand](https://img.shields.io/badge/GoLand-0078D6?style=for-the-badge&logo=GoLand&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-5C2D91.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-00599C.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git]([https://img.shields.io/badge](https://img.shields.io/badge)/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 📫 Studying article: 
 
 &ensp;&ensp;&ensp;
-[![Kindle](https://img.shields.io/badge/Kindle-%230077B5.svg?style=for-the-badge&logo=Kindle&logoColor=white)](https://www.Kindle.com/in/zack-yang-70a73b188/)
+[![Kindle]
 [![NeatReader](https://img.shields.io/badge/NeatReader-D14836?style=for-the-badge&logo=NeatReader&logoColor=white)](https://www.neat-reader.cn/)
-[![video website] (https://666java.com/)
+[![video website](https://666java.com/)
 [![Ebook website](https://zh.book4you.org/)
 
