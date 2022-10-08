@@ -41,7 +41,7 @@ Music🎵, films🎬 and books📖 fills us emotionally, playing game help us fo
 <p align="left">
 <a href="http://dal.heitao.com/" target="blank"><img align="center" src="https://img.tapimg.com/market/lcs/f86413957cee43a36a489bc0d02d58b1_360.png?imageMogr2/auto-orient/strip" width="64" height="64" alt="amg"/></a> &nbsp;&nbsp;
 <a href="https://www.taptap.com/app/44691" target="blank"><img align="center" src="https://img.tapimg.com/market/lcs/6b7eb815b28b3532…7721ab395968_360.png?imageMogr2/auto-orient/strip" width="64" height="64" alt="dal"/></a> &nbsp;&nbsp;
-<a href="https://www.taptap.com/app/206305" target="blank"><img align="center" src="https://img.tapimg.com/market/lcs/33ca170ed8e1d9a7…78df50a9b37d_360.png?imageMogr2/auto-orient/strip" width="64" height="64" alt="dal"/></a> &nbsp;&nbsp;
+<a href="https://www.taptap.com/app/206305" target="blank"><img align="center" src="https://img.tapimg.com/market/lcs/33ca170ed8e1d9a7223978df50a9b37d_360.png?imageMogr2/auto-orient/strip" width="64" height="64" alt="dal"/></a> &nbsp;&nbsp;
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhaojianbo2&show_icons=true)
