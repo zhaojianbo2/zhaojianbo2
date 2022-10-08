@@ -36,6 +36,6 @@ Music🎵, films🎬 and books📖 fills us emotionally, alcohols🥂 help us fo
 &ensp;&ensp;&ensp;
 [![Kindle]
 [![NeatReader](https://img.shields.io/badge/NeatReader-D14836?style=for-the-badge&logo=NeatReader&logoColor=white)](https://www.neat-reader.cn/)
-[![video website](https://666java.com/)
-[![Ebook website](https://zh.book4you.org/)
+[![video website](https://img.shields.io/badge/Video-D14836?style=for-the-badge&logo=NeatReader&logoColor=white)](https://666java.com/)
+[![Ebook website](https://img.shields.io/badge/Ebook-D14836?style=for-the-badge&logo=NeatReader&logoColor=white)](https://zh.z-lib.org/)
 
