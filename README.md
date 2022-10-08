@@ -19,7 +19,7 @@ Music🎵, films🎬 and books📖 fills us emotionally, alcohols🥂 help us fo
 &ensp;&ensp;&ensp;
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%23313131.svg?style=for-the-badge&logo=Android&logoColor=white)
-![Spring-Cloud](https://img.shields.io/badge/Spring-Cloud-%2335495e.svg?style=for-the-badge&logo=Spring-Cloud&logoColor=%234FC08D)
+![SpringCloud](https://img.shields.io/badge/SpringCloud-%2335495e.svg?style=for-the-badge&logo=Spring-Cloud&logoColor=%234FC08D)
 
 ⚡ I like to use these tools:
 
