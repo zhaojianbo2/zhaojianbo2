@@ -1,5 +1,6 @@
-[![约会大作战](https://img.shields.io/badge/约会大作战-D14836.svg?style=for-the-badge&logo=约会大作战&logoColor=white)](http://dal.heitao.com/)[![约会大作战](http://gamepic.heitao.com/dal/website/8.0/p/img/lunbo/4.png?v=20200305002)](http://dal.heitao.com/)
+[![约会大作战](https://img.shields.io/badge/约会大作战-D14836.svg?style=for-the-badge&logo=约会大作战&logoColor=white)](http://dal.heitao.com/)[![约会大作战]
 
+<p align="center"><img src="http://gamepic.heitao.com/dal/website/8.0/p/img/lunbo/4.png?v=20200305002"/></p>
 
 I'm WinKey Zhao, a passionate game programmer, and a old game boy.
 
