@@ -11,7 +11,7 @@ Music🎵, films🎬 and books📖 fills us emotionally, alcohols🥂 help us fo
 
 &ensp;&ensp;&ensp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![java](	https://img.shields.io/badge/java%2B%2B-00599C?style=for-the-badge&logo=java&logoColor=white)
+![java](	https://img.shields.io/badge/java-00599C?style=for-the-badge&logo=java&logoColor=white)
 ![golang](https://img.shields.io/badge/golang-%232C2D72.svg?style=for-the-badge&logo=golang&logoColor=white)
 
 🎉 I’m interested in things related to:
