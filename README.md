@@ -1,4 +1,4 @@
-[![readme](https://user-images.githubusercontent.com/60165135/174496689-f975a202-6aef-4922-bb11-aa0fd369744a.png)](https://github.com/zhaojianbo2)
+[![约会大作战](https://img.shields.io/badge/约会大作战-D14836.svg?style=for-the-badge&logo=约会大作战&logoColor=white)](http://dal.heitao.com/)[![约会大作战](http://gamepic.heitao.com/dal/website/8.0/p/img/lunbo/4.png?v=20200305002)](http://dal.heitao.com/)
 
 
 I'm WinKey Zhao, a passionate game programmer, and a old game boy.
@@ -42,7 +42,6 @@ Music🎵, films🎬 and books📖 fills us emotionally, playing game help us fo
 
 &ensp;&ensp;&ensp;
 [![约会大作战](https://img.shields.io/badge/约会大作战-D14836.svg?style=for-the-badge&logo=约会大作战&logoColor=white)](http://dal.heitao.com/)
-[![约会大作战](http://gamepic.heitao.com/dal/website/8.0/p/img/lunbo/4.png?v=20200305002)](http://dal.heitao.com/)
 [![末日远征](https://img.shields.io/badge/末日远征-D14836.svg?style=for-the-badge&logo=末日远征&logoColor=white)](https://www.taptap.com/app/44691)
 [![终极要塞](https://img.shields.io/badge/终极要塞-D14836.svg?style=for-the-badge&logo=终极要塞&logoColor=white)](https://www.taptap.com/app/206305)
 <p align="left">
