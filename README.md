@@ -3,7 +3,7 @@
 
 I'm WinKey Zhao, a passionate game programmer, and a old game boy.
 
-Music🎵, films🎬 and books📖 fills us emotionally, alcohols🥂 help us forget and escape from reality, but games🎮 are ... something else, it is new, full of potential, and it has much much more freedom!
+Music🎵, films🎬 and books📖 fills us emotionally, playing game help us forget and escape from reality, but games🎮 are ... something else, it is new, full of potential, and it has much much more freedom!
 
 ---
 
@@ -30,7 +30,7 @@ Music🎵, films🎬 and books📖 fills us emotionally, alcohols🥂 help us fo
 ![GoLand](https://img.shields.io/badge/GoLand-0078D6?style=for-the-badge&logo=GoLand&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-00599C.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-📫 Studying article: 
+📚 Studying article: 
 
 &ensp;&ensp;&ensp;
 ![Kindle](https://img.shields.io/badge/Kindle-%23007ACC.svg?style=for-the-badge&logo=Kindle&logoColor=white)
