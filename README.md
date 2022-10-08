@@ -36,7 +36,6 @@ Music🎵, films🎬 and books📖 fills us emotionally, playing game help us fo
 [![Ebook website](https://img.shields.io/badge/Ebook-D14836?style=for-the-badge&logo=NeatReader&logoColor=white)](https://zh.z-lib.org/)
 
 🎏 Developed Online App
-
 &ensp;&ensp;&ensp;
 <p align="left">
  <a href="http://dal.heitao.com/" target="blank"><img align="center" src="https://img.tapimg.com/market/lcs/6b7eb815b28b3532e10b7721ab395968_360.png?imageMogr2/auto-orient/strip" width="64" height="64" alt="dal"/></a> &nbsp;&nbsp;
