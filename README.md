@@ -28,7 +28,7 @@ Music🎵, films🎬 and books📖 fills us emotionally, alcohols🥂 help us fo
 ![Eclipse](https://img.shields.io/badge/Eclipse.svg?style=for-the-badge&logo=Eclipse&logoColor=white&color=black&labelColor=white)
 ![IntellijIdea](https://img.shields.io/badge/IntellijIdea-%23FF9900.svg?style=for-the-badge&logo=IntellijIdea&logoColor=white)
 ![GoLand](https://img.shields.io/badge/GoLand-0078D6?style=for-the-badge&logo=GoLand&logoColor=white)
-![Android-Studio](https://img.shields.io/badge/AndroidStudio%20Android-Studio?style=for-the-badge&logo=Android-Studio&logoColor=white)
+![AndroidStudio](https://img.shields.io/badge/AndroidStudio-0078D6?style=for-the-badge&logo=AndroidStudio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 📫 Studying article: 
