@@ -32,9 +32,10 @@ Music🎵, films🎬 and books📖 fills us emotionally, alcohols🥂 help us fo
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 📫 Studying article: 
+
 &ensp;&ensp;&ensp;
 [![Kindle](https://img.shields.io/badge/Kindle-%230077B5.svg?style=for-the-badge&logo=Kindle&logoColor=white)](https://www.Kindle.com/in/zack-yang-70a73b188/)
 [![NeatReader](https://img.shields.io/badge/NeatReader-D14836?style=for-the-badge&logo=NeatReader&logoColor=white)](https://www.neat-reader.cn/)
-https://666java.com/
-https://zh.book4you.org/
+[![video website] (https://666java.com/)
+[![Ebook website](https://zh.book4you.org/)
 
