@@ -38,3 +38,8 @@ Music🎵, films🎬 and books📖 fills us emotionally, playing game help us fo
 [![video website](https://img.shields.io/badge/Video-D14836?style=for-the-badge&logo=NeatReader&logoColor=white)](https://666java.com/)
 [![Ebook website](https://img.shields.io/badge/Ebook-D14836?style=for-the-badge&logo=NeatReader&logoColor=white)](https://zh.z-lib.org/)
 
+🎏 Developed Online App
+
+[![DAL](https://img.shields.io/badge/DAL-00599C.svg?style=for-the-badge&logo=DAL&logoColor=white)](http://dal.heitao.com/)
+[![末日远征](https://img.shields.io/badge/末日远征-00599C.svg?style=for-the-badge&logo=末日远征&logoColor=white)](https://www.taptap.com/app/44691)
+[![终极要塞](https://img.shields.io/badge/终极要塞-00599C.svg?style=for-the-badge&logo=终极要塞&logoColor=white)](https://www.taptap.com/app/206305)
