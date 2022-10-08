@@ -34,8 +34,8 @@ Music🎵, films🎬 and books📖 fills us emotionally, alcohols🥂 help us fo
 📫 Studying article: 
 
 &ensp;&ensp;&ensp;
-[![Kindle](https://img.shields.io/badge/Kindle-D14836?style=for-the-badge&logo=Kindle&logoColor=white)]
-[![NeatReader](https://img.shields.io/badge/NeatReader-D14836?style=for-the-badge&logo=NeatReader&logoColor=white)](https://www.neat-reader.cn/)
-[![video website](https://img.shields.io/badge/Video-D14836?style=for-the-badge&logo=NeatReader&logoColor=white)](https://666java.com/)
-[![Ebook website](https://img.shields.io/badge/Ebook-D14836?style=for-the-badge&logo=NeatReader&logoColor=white)](https://zh.z-lib.org/)
+[![Kindle](https://img.shields.io/badge/Kindle-D14836?style=for-the-badge&logo=Kindle&logoColor=white)
+[![NeatReader](https://img.shields.io/badge/NeatReader-D14836?style=for-the-badge&logo=NeatReader&logoColor=white)(https://www.neat-reader.cn/)
+[![video website](https://img.shields.io/badge/Video-D14836?style=for-the-badge&logo=NeatReader&logoColor=white)(https://666java.com/)
+[![Ebook website](https://img.shields.io/badge/Ebook-D14836?style=for-the-badge&logo=NeatReader&logoColor=white)(https://zh.z-lib.org/)
 
