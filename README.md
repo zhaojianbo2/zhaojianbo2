@@ -38,10 +38,6 @@ Music🎵, films🎬 and books📖 fills us emotionally, playing game help us fo
 🎏 Developed Online App
 
 &ensp;&ensp;&ensp;
-[![约会大作战](https://img.shields.io/badge/约会大作战-D14836.svg?style=for-the-badge&logo=约会大作战&logoColor=white)](http://dal.heitao.com/)
-
-[![终极要塞](https://img.shields.io/badge/终极要塞-D14836.svg?style=for-the-badge&logo=终极要塞&logoColor=white)](https://www.taptap.com/app/206305)
-[![末日远征](<a href="http://dal.heitao.com/" target="blank"><img align="center" src="https://img.tapimg.com/market/lcs/f86413957cee43a36a489bc0d02d58b1_360.png?imageMogr2/auto-orient/strip" width="64" height="64" alt="dal"/></a>)](https://www.taptap.com/app/44691)
 <p align="left">
 <a href="http://dal.heitao.com/" target="blank"><img align="center" src="https://img.tapimg.com/market/lcs/f86413957cee43a36a489bc0d02d58b1_360.png?imageMogr2/auto-orient/strip" width="64" height="64" alt="amg"/></a> &nbsp;&nbsp;
 <a href="https://www.taptap.com/app/44691" target="blank"><img align="center" src="https://img.tapimg.com/market/lcs/6b7eb815b28b3532…7721ab395968_360.png?imageMogr2/auto-orient/strip" width="64" height="64" alt="dal"/></a> &nbsp;&nbsp;
