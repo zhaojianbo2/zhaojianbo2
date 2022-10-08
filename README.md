@@ -44,3 +44,5 @@ Music🎵, films🎬 and books📖 fills us emotionally, playing game help us fo
 [![约会大作战](https://img.shields.io/badge/约会大作战-D14836.svg?style=for-the-badge&logo=约会大作战&logoColor=white)](http://dal.heitao.com/)
 [![末日远征](https://img.shields.io/badge/末日远征-D14836.svg?style=for-the-badge&logo=末日远征&logoColor=white)](https://www.taptap.com/app/44691)
 [![终极要塞](https://img.shields.io/badge/终极要塞-D14836.svg?style=for-the-badge&logo=终极要塞&logoColor=white)](https://www.taptap.com/app/206305)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhaojianbo2&show_icons=true)
