@@ -11,7 +11,7 @@ Music🎵, films🎬 and books📖 fills us emotionally, alcohols🥂 help us fo
 
 &ensp;&ensp;&ensp;
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![java](	https://img.shields.io/badge/java%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![java](	https://img.shields.io/badge/java%2B%2B-00599C?style=for-the-badge&logo=java%2B%2B&logoColor=white)
 ![golang](https://img.shields.io/badge/golang-%232C2D72.svg?style=for-the-badge&logo=golang&logoColor=white)
 
 🎉 I’m interested in things related to:
@@ -19,16 +19,16 @@ Music🎵, films🎬 and books📖 fills us emotionally, alcohols🥂 help us fo
 &ensp;&ensp;&ensp;
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-%23313131.svg?style=for-the-badge&logo=Android&logoColor=white)
-![SpringAll](https://img.shields.io/badge/spring-%2335495e.svg?style=for-the-badge&logo=Spring&logoColor=%234FC08D)
+![SpringCloud](https://img.shields.io/badge/spring-%2335495e.svg?style=for-the-badge&logo=Spring-Cloud&logoColor=%234FC08D)
 
 ⚡ I like to use these tools:
 
 &ensp;&ensp;&ensp;
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-000000.svg?style=for-the-badge&logo=Eclipse&logoColor=white&color=black&labelColor=crimson)
-![IDEA](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![IDEA](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=IDEA&logoColor=white)
 ![GoLand](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=GoLand&logoColor=white)
-![Android Studio](https://img.shields.io/badge/AndroidStudio%20Chrome-4285F4?style=for-the-badge&logo=AndroidStudio&logoColor=white)
+![Android-Studio](https://img.shields.io/badge/AndroidStudio%20Chrome-4285F4?style=for-the-badge&logo=Android-Studio&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 📫 Studying article: 
