@@ -45,7 +45,7 @@ Music🎵, films🎬 and books📖 fills us emotionally, playing game help us fo
 [![末日远征](https://img.shields.io/badge/末日远征-D14836.svg?style=for-the-badge&logo=末日远征&logoColor=white)](https://www.taptap.com/app/44691)
 [![终极要塞](https://img.shields.io/badge/终极要塞-D14836.svg?style=for-the-badge&logo=终极要塞&logoColor=white)](https://www.taptap.com/app/206305)
 <p align="left">
-<a href="http://dal.heitao.com/" target="blank"><img align="center" src="http://gamepic.heitao.com/dal/website/8.0/p/img/pic/m1.png?v=20190730001" alt="dal" height="40" width="40" /></a> &nbsp;&nbsp;
+<a href="http://dal.heitao.com/" target="blank"><img align="center" src="http://gamepic.heitao.com/dal/website/8.0/p/img/lunbo/4.png?v=20200305002" alt="dal" height="40" width="40" /></a> &nbsp;&nbsp;
 </p>
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zhaojianbo2&show_icons=true)
