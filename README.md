@@ -1,6 +1,6 @@
 I'm WinKey Zhao, a passionate game programmer, and a old game boy.
 
-Music🎵, films🎬 and books📖 fills us emotionally, playing game help us forget and escape from reality, but games🎮 are ... something else, it is new, full of potential, and it has much much more freedom!
+Music🎵, films🎬 and books📖 fills us emotionally, playing game help us forget and escape from reality, but games🎮 are ... something else, it is new, full of passion, and it has much much more freedom!
 
 ---
 
